@@ -1,0 +1,25 @@
+
+
+.rectangle{
+  width: 250px; 
+  height: 50px; 
+  border: 2px solid #9e1aaa; 
+  margin: 2px; 
+  padding: 5px
+}
+.square{
+  width: 200px; 
+  height: 200px; 
+  border: 2px solid #3625c9; 
+  margin: 2px; 
+  padding: 30px
+}
+.parent{
+  width: auto; 
+  height: 98vh; 
+  border: 2px solid #c94b25; 
+  background-color: blanchedalmond;
+}
+p{
+  margin: 0;
+}
